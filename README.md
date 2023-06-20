@@ -1,3 +1,3 @@
 # portafolio_ibm_test
 
-Hi this is a change
+This project was a test for IBM portfolio
